@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Liz Lemon",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NDg0MjA1MV5BMl5BanBnXkFtZTgwNDEwOTM0MjE@._V1_.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Tracy Jordan",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc2OTcxMzAyNF5BMl5BanBnXkFtZTgwNTQyODI0MjE@._V1_.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Kenneth Parcell",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU1MDYxODAyM15BMl5BanBnXkFtZTgwMDAxNzI0MjE@._V1_.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Pete Horberger",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDg3ODM0MzA2OV5BMl5BanBnXkFtZTgwNTk1NTM0MjE@._V1_.jpg",
+        "clicked": false
+    },    {
+        "id": 5,
+        "name": "Frank Rossitano",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzE4MDU1NDMwNV5BMl5BanBnXkFtZTgwOTQ0NTI0MjE@._V1_.jpg",
+        "clicked": false
+    }
+    ,    {
+        "id": 6,
+        "name": "Jack Donaghy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUyMTY0NTc1OV5BMl5BanBnXkFtZTgwNjM4OTQ0MzI@._V1_SY1000_CR0,0,1499,1000_AL_.jpg",
+        "clicked": false
+    }
+    ,    {
+        "id": 7,
+        "name": "Jenna Maroney",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjExMTMyNTY5NV5BMl5BanBnXkFtZTgwMTMzMDM0MjE@._V1_.jpg",
+        "clicked": false
+    }
+]
