@@ -1,6 +1,7 @@
 {
   "name": "clickygame",
   "version": "0.1.0",
+  "homepage": "https://trikamit.github.io/Clicky-game/",
   "private": true,
   "dependencies": {
     "react": "^16.5.0",
