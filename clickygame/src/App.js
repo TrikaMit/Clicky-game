@@ -16,7 +16,7 @@ class App extends Component {
 }
     addScore = () => {
         const score = this.state.score
-        if (score < 9){
+        if (score < 8){
         this.setState({score : score+1})
         console.log(score);
         }else {
