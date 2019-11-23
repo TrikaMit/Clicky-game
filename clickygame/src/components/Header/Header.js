@@ -5,6 +5,7 @@ class Header extends Component {
   <div className="jumbotron jumbotron-fluid">
       <div className="container">
           <h1 className="display-3">Clicky Game!</h1>
+          <p className="lead">Click on any character to begin the game, and start gaining points. Don't click the same character twice, or you LOSE!</p>
           <p className="lead">You guessed {this.props.name}</p>
           <p className="lead">Score: {this.props.score} </p>
       </div>

@@ -24,11 +24,9 @@ class App extends Component {
         }
     }
     getClicked = (name) => {
-        console.log(name)
         this.setState({clickedName:name});
         const allClicked = this.state.allClicked;
         this.setState({allClicked: [...allClicked, name]});
-        console.log([...this.state.allClicked, name])
         this.shuffle(this.state.cast)
     }
 
